@@ -1,0 +1,13 @@
+body {
+    font-family: Roboto, sans-serif;
+}
+
+img {
+    max-width: 30%;
+    height: auto;
+}
+
+.top {
+    background-color: darkslategrey;
+    color: white;
+}
