@@ -10,4 +10,22 @@ img {
 .top {
     background-color: darkslategrey;
     color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.header-container {
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
+    margin-bottom: 20px;
+}
+
+.header-body {
+    display: flex;
+    flex-direction: column;
+}
+
+.text-image-block {
+    display: flex;
 }
