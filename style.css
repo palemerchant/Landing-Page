@@ -120,9 +120,19 @@ body {
     background-color: #e5e7eb;
     display: flex;
     flex-direction: column;
+    padding: 5% 20%;
 }
 
 .roth-quote {
     font-size: 36px;
-    font-weight: 900;
+    font-weight: 200;
+    color: darkslategrey;
+}
+
+.attribution {
+    display: flex;
+    justify-content: flex-end;
+    font-size: 22px;
+    font-weight: bold;
+    margin-right: 5%
 }
