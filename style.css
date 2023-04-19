@@ -136,3 +136,23 @@ body {
     font-weight: bold;
     margin-right: 5%
 }
+
+.cta {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10% 5%;
+}
+
+.cta-container {
+    display: flex;
+    gap: 60px;
+    background-color: maroon;
+    color: lightgrey;
+    padding: 10%;
+}
+
+.cta-text {
+    display: flex;
+    flex-direction: column;
+}
