@@ -178,3 +178,12 @@ body {
     align-items: center;
     padding: 0px 25px;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1f2937;
+    color: #e5e7eb;
+    padding: 3% 0%;
+}
